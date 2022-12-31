@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DAYTONAUSA_EXP", "DAYTONAUSA_EXP\DAYTONAUSA_EXP.vcxproj", "{33B8E78D-B6BB-4FB9-850A-DE9BFC2EACDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|PS3 = Debug|PS3
+		Release|PS3 = Release|PS3
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33B8E78D-B6BB-4FB9-850A-DE9BFC2EACDB}.Debug|PS3.ActiveCfg = Debug|PS3
+		{33B8E78D-B6BB-4FB9-850A-DE9BFC2EACDB}.Debug|PS3.Build.0 = Debug|PS3
+		{33B8E78D-B6BB-4FB9-850A-DE9BFC2EACDB}.Release|PS3.ActiveCfg = Release|PS3
+		{33B8E78D-B6BB-4FB9-850A-DE9BFC2EACDB}.Release|PS3.Build.0 = Release|PS3
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
